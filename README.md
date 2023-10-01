@@ -62,7 +62,6 @@ Para este projeto foram utilizadas as seguintes tecnologias:
 * Python 3.9.2
 * Jupyter Notebook
 * VS Code
-* 
 Assim como as bibliotecas:
 
 * Pandas
@@ -79,5 +78,6 @@ Assim como as bibliotecas:
 ---
 
 [Linkedin](https://www.linkedin.com/in/victor-pinheiro-martins-a870b7125/?originalSubdomain=br)
+
 [Medium](https://medium.com/@victorpmartins)
 
